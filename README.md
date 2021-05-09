@@ -39,5 +39,5 @@ Open the terminal and cd into the directory of the sql files
     1) create_tables.sql - creating all the actual tables needed for the database we create
     2) populate_temp_tables.sql - copying the data in the tsv files to the created temporary tables
     3) insert.sql - populating the actual tables of the database we create
-### QUERYING THE DATABASE(ASG2)
-    1) source.sql - the querying the database
+### QUERYING THE DATABASE(ASG3)
+    1) source.sql - sql for the querying of database
